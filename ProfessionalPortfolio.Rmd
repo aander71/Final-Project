@@ -1,0 +1,209 @@
+---
+title: "Professional Portfolio"
+author: "Amelia Anderson"
+output: tufte::tufte_html
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Job Portfolio
+
+The following details jobs, internships, and other paid positions with intricate details relating to my work in those positions. This is to be used as a master list for building job-specific resumes to submit for job applications, where I can choose specific details that are more appropriate for the job I'm applying for.
+
+## Outreach/Education Coordinator
+
+### Energy Institute at Colorado State University, Fort Collins, CO
+
+#### August 2025 - present
+
+**Position Specifics:**
+
+-   Coordinated and attended educational visits to Colorado K-12 schools and outreach events along the front range
+
+-   Educated many different audiences on energy basics and renewable technologies
+
+-   Managed a team of undergraduate student employees on outreach events and education projects
+
+-   Organized a competition event for high school students focused on engineering and design
+
+-   Developed lesson plans on soil carbon sequestration and agrivoltaics to pilot in the mobile classroom
+
+## GIS Contractor
+
+### AgriSolar Consulting, CO
+
+#### May 2025 - September 2025
+
+**Position Specifics:**
+
+-   Developed informational StoryMaps using ArcGIS Online on the basics of agrivoltaics for public and stakeholder outreach
+
+-   Gained proficient knowledge on agrivoltaic design, electrical grid integration, stakeholder interests/concerns, and solar energy production basics
+
+-   Managed multiple data sets of different types in ArcGIS applications
+
+## Research Assistant
+
+### Natural Resource Ecology Lab, Fort Collins, CO
+
+#### August 2024 - July 2025
+
+**Position Specifics:**
+
+-   Assisted in the development of K-12 curriculum on ecology and wild horses in the western US
+
+-   Created maps using real data related to western ecology and wild horse populations
+
+-   Photographed wild horses and other western fauna in the field, as well as capturing landscapes and ecological dynamics through photography
+
+-   Developed skills to navigate a working environment that wasn't supportive of my needs as an undergraduate employee
+
+## Administrative Assistant & Peer Advisor
+
+### Dept. of Ecosystem Science & Sustainability, CSU, Fort Collins, CO
+
+#### August 2023 - May 2025
+
+**Position Specifics:**
+
+-   Assisted in marketing development for expanding a professional program through the department
+
+    -   Specifically, aided in the expansion of a program that started with 5 students, to 40 in a 2-year span
+
+-   Organized department events and documents included class scheduling, syllabus archiving, and hosted seminar events
+
+-   Managed day-to-day building tasks to foster a collaborative environment for students, researchers, and building staff
+
+-   Advised incoming freshman and students interested in majors within the department on class selection and career goals
+
+## Mathematics Tutor
+
+### Dept. of Mathematics, CSU, Fort Collins, CO
+
+#### August 2023 - May 2024
+
+**Position Specifics:**
+
+-   Tutored enrolled students in Calculus 1: derivative and integral basics with applications in biological sciences
+
+-   Developed communication and teaching skills for a variety of audiences
+
+## Commercial Laboratory Analyst
+
+### ACT Environmental, Indianapolis, IN
+
+#### July 2020 - July 2021
+
+**Position Specifics:**
+
+-   Analyzed commercial air filters for asbestos fiber presence
+
+-   Analyzed various sample types for lead presence using mass spectronomy
+
+-   Maintained accurate quality control for commercial regulations
+
+-   Gained adequate lab safety knowledge and standard operating procedures
+
+## Team Manager
+
+### Graeter's Ice Cream, Fishers, IN
+
+#### January 2018 - December 2021
+
+**Position Specifics:**
+
+-   Managed daily store tasks including hour team members, accounting procedure, and store upkeep.
+
+-   Resolved customer service conflicts while maintaining professionalism
+
+-   Gained extensive knowledge of products sold and the processes of manufacturing them
+
+# Project Portfolio
+
+The following details projects and other specific experiences that may be noteworthy to employers or helpful during interviews. This is to act as a "project portfolio" based on the work I have achieved rather than the job title I held.
+
+## Data Analysis - Expanding Agrivoltaics in Colorado
+
+### Project Details
+
+-   Undergraduate project that led to the work with AgriSolar
+
+-   Data analysis using GIS software to understand the best places for agrivoltaics in the state of Colorado
+
+-   Various data sets and analysis techniques including raster weighted overlays
+
+-   Project presentation and communication using ArcGIS StoryMaps and Experience Builder
+
+### Project Deliverables
+
+Link to final StoryMap: [Expanding Solar Development in Colorado](https://storymaps.arcgis.com/stories/655154129ec64e5899b418453b5ad377)
+
+Link to Experience Builder: [Suitable Areas for Agrivoltaics in Colorado](https://experience.arcgis.com/experience/381aa33c5d3a4e5c856da41675c08e00)
+
+## Data Analysis - Suitability for Voluntary Carbon Market Projects in a Peruvian National Park
+
+### Project Details
+
+-   Completed as my undergraduate capstone project
+
+-   Analyzed the suitability for reforestation and peatlands restoration in a Peruvian National Park for carbon credit in the voluntary carbon market
+
+-   Utilized remote sensing and geospatial analysis techniques to identify areas in a specific valley with high reforestation potential and peatlands remediation potential
+
+-   Presented a StoryMao of findings and shared results with other students working on identifying the carbon sequestration potential
+
+### Project Deliverables
+
+Link to final StoryMap: [Reforestation & Peatlands Expansion Potential](https://storymaps.arcgis.com/stories/f9558ad6df5e49c09aa54917c00c9b57)
+
+## Undergraduate Research
+
+### Project Details
+
+-   Worked on a year-long undergraduate research project on creating K-12 lesson plans on population modelling of wild horses and common fertility management practices
+
+-   Created maps for 4 different levels to understand where wild horses are managed in the western US
+
+-   Traveled to a Herd Management area to understand western ecology dynamic in the field while photographing wild horses
+
+-   Presented a research poster at the end of the project
+
+    -   Awarded Warner College Honors for poster presentation at Celebrate Undergraduate Research & Creativity
+
+### Project Deliverables
+
+Below is an example of a deliverable from this project, which included understanding population dynamics of wild horses based on physical density or the assigned population management level determined by the BLM.
+
+![Population density](MAP_DensityFINAL.jpg){width="369"}
+
+![Percent above designated population capacity](MAP_AML_FINAL2.jpg){width="368"}
+
+# Other Noteworthy Experiences
+
+## Club Development
+
+-   Developed a new club at Colorado State University focused on providing a space for LGBTQ+ and queer people to experience the outdoors.
+
+-   Reasons for developing the club
+
+    -   Lack of spaces for queer people to participate in nature-related activity due to university culture and gate-keeping
+
+    -   Lack of spaces to experience nature-related activities without costing a bunch of money
+
+    -   Wanting to attract people that were like me, other queer environmentalists on campus
+
+-   Activities and Trips Completed with Rainbow Trout
+
+    -   Snow shoeing trips once a year
+
+    -   River/creek clean-up days once a year
+
+    -   Fire safety and wildfire awareness day
+
+    -   Hiking trips to Rocky Mountain National Park once a year
+
+    -   Eco-halloween party
+
+![Rainbow Trout Snow-Shoe Trip 2024](P1010607.JPG){width="418"}

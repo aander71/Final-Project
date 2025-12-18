@@ -3,7 +3,7 @@
 R Markdown
 
 This Markdown Report is an extensive professional portfolio for me to pull from
-when applying for jobs and creating targeted resumes. I have been wanted to put
+when applying for jobs and creating targeted resumes. I have been wanting to put
 this together for awhile as I am starting to apply for real jobs next year, so
 this assignment was perfect for compiling these things into an organized doc. 
 
